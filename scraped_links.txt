@@ -1,0 +1,147 @@
+Base URL: https://www.barcouncilofindia.org/info/22nd-quali-r6uwmu
+
+2. Text: [No text]
+URL: https://www.barcouncilofindia.org/info/contact
+
+3. Text: Login
+URL: https://www.barcouncilofindia.org/user/login
+
+4. Text: [No text]
+URL: https://www.barcouncilofindia.org/
+
+5. Text: Forgot password?
+URL: https://www.barcouncilofindia.org/user/forgot
+
+6. Text: CLE Applications - Frequently Asked Questions (FAQs)
+URL: https://www.barcouncilofindia.org/info/cle-faq-01
+   [✗] Not a document: text/html
+
+7. Text: CLE Applications - Process Overview Diagram
+URL: https://www.barcouncilofindia.org/info/cle-flow-01
+   [✗] Not a document: text/html
+
+8. Text: cle@barcouncilofindia.org
+URL: mailto:cle@barcouncilofindia.org
+
+9. Text: 011-49225018
+URL: tel:01149225018
+
+10. Text: 36
+URL: tel:01149225036
+
+11. Text: 37
+URL: tel:01149225037
+
+12. Text: BCI Approved Existing CLEs/University Departments - Updation of Existing Courses
+URL: https://www.barcouncilofindia.org/info/apply-for-cleExCourse
+
+13. Text: CLE Application - CLE Seeking Approval of Fresh Course
+URL: https://www.barcouncilofindia.org/info/apply-for-cleNewCourse
+   [✗] Not a document: text/html
+
+14. Text: New University - Seeking for University Recognition
+URL: https://www.barcouncilofindia.org/info/university-recognition-new
+
+15. Text: Online / Pay via NEFT or RTGS (eChallan) Payment Methods
+URL: https://www.barcouncilofindia.org/info/online-offline-payment-methods
+
+17. Text: About BCI
+URL: https://www.barcouncilofindia.org/info/about-bci
+
+18. Text: History
+URL: https://www.barcouncilofindia.org/info/history
+
+19. Text: Constitution
+URL: https://www.barcouncilofindia.org/info/constitution
+
+20. Text: BCI Trust
+URL: https://www.barcouncilofindia.org/info/bci-trust
+
+21. Text: BCI Chairmen
+URL: https://www.barcouncilofindia.org/info/chairmen
+
+22. Text: Office Bearers
+URL: https://www.barcouncilofindia.org/info/members
+
+23. Text: Committees
+URL: https://www.barcouncilofindia.org/info/committees
+
+24. Text: Officers
+URL: https://www.barcouncilofindia.org/info/officers
+
+25. Text: All India Bar Examinations (AIBE)
+URL: https://www.barcouncilofindia.org/info/aibe
+
+26. Text: State Bar Councils
+URL: https://www.barcouncilofindia.org/info/sbc
+
+27. Text: Parliament in India
+URL: https://www.barcouncilofindia.org/l/poi-website
+
+28. Text: Supreme Court of India
+URL: https://www.barcouncilofindia.org/l/sci-website
+
+29. Text: High Courts in India
+URL: https://www.barcouncilofindia.org/l/hci-website
+
+30. Text: National Portal
+URL: https://www.barcouncilofindia.org/l/np-website
+
+31. Text: Central Information Commission
+URL: https://www.barcouncilofindia.org/l/cia-website
+   [✗] Not a document: text/html
+
+32. Text: National Human Rights Commission India
+URL: https://www.barcouncilofindia.org/l/nhrci
+
+33. Text: Advocate Act 1961
+URL: https://www.barcouncilofindia.org/info/advocates-act-1961
+
+34. Text: Professional Standards
+URL: https://www.barcouncilofindia.org/info/rules-on-professional-standards
+
+35. Text: Universities and CLE's
+URL: https://www.barcouncilofindia.org/info/recognised-universities-colleges
+
+36. Text: FAQ
+URL: https://www.barcouncilofindia.org/info/faq
+
+37. Text: Galleries
+URL: https://www.barcouncilofindia.org/info/list/gallery
+
+39. Text: Announcements
+URL: https://www.barcouncilofindia.org/info/announcements
+
+40. Text: Press Release
+URL: https://www.barcouncilofindia.org/info/press
+
+41. Text: Legislative Research
+URL: https://www.barcouncilofindia.org/info/legislative-research
+
+42. Text: Right to Information
+URL: https://www.barcouncilofindia.org/info/rti
+   [✗] Not a document: text/html
+
+43. Text: Important Judgments
+URL: https://www.barcouncilofindia.org/info/important-judgements
+
+44. Text: Youtube
+URL: https://www.barcouncilofindia.org/l/youtube
+
+45. Text: 21, Rouse Avenue Institutional Area,
+Near Bal Bhawan,
+New Delhi – 110 002.
+URL: https://www.barcouncilofindia.org/l/gmap
+
+46. Text: 011-49225000
+URL: tel:01149225000
+
+47. Text: bciinfo21@gmail.com
+URL: mailto:bciinfo21@gmail.com
+
+48. Text: Terms & Conditions
+URL: https://www.barcouncilofindia.org/info/terms
+
+49. Text: Privacy policy
+URL: https://www.barcouncilofindia.org/info/privacy
+

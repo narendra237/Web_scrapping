@@ -1,0 +1,109 @@
+Base URL: https://www.barcouncilofindia.org/info/22nd-quali-r6uwmu
+
+2. Text: [No text]
+URL: https://www.barcouncilofindia.org/info/contact
+
+3. Text: Login
+URL: https://www.barcouncilofindia.org/user/login
+
+4. Text: Home
+URL: https://www.barcouncilofindia.org/
+
+5. Text: About BCI
+URL: https://www.barcouncilofindia.org/info/about-bci
+
+6. Text: History
+URL: https://www.barcouncilofindia.org/info/history
+
+7. Text: Constitution
+URL: https://www.barcouncilofindia.org/info/constitution
+
+8. Text: BCI Trust
+URL: https://www.barcouncilofindia.org/info/bci-trust
+
+9. Text: BCI Chairmen
+URL: https://www.barcouncilofindia.org/info/chairmen
+
+10. Text: Office Bearers
+URL: https://www.barcouncilofindia.org/info/members
+
+11. Text: Committees
+URL: https://www.barcouncilofindia.org/info/committees
+
+12. Text: Officers
+URL: https://www.barcouncilofindia.org/info/officers
+
+13. Text: All India Bar Examinations (AIBE)
+URL: https://www.barcouncilofindia.org/info/aibe
+
+14. Text: State Bar Councils
+URL: https://www.barcouncilofindia.org/info/sbc
+
+15. Text: Parliament in India
+URL: https://www.barcouncilofindia.org/l/poi-website
+
+16. Text: Supreme Court of India
+URL: https://www.barcouncilofindia.org/l/sci-website
+
+17. Text: High Courts in India
+URL: https://www.barcouncilofindia.org/l/hci-website
+
+18. Text: National Portal
+URL: https://www.barcouncilofindia.org/l/np-website
+
+19. Text: Central Information Commission
+URL: https://www.barcouncilofindia.org/l/cia-website
+
+20. Text: National Human Rights Commission India
+URL: https://www.barcouncilofindia.org/l/nhrci
+
+21. Text: Advocate Act 1961
+URL: https://www.barcouncilofindia.org/info/advocates-act-1961
+
+22. Text: Professional Standards
+URL: https://www.barcouncilofindia.org/info/rules-on-professional-standards
+
+23. Text: Universities and CLE's
+URL: https://www.barcouncilofindia.org/info/recognised-universities-colleges
+
+24. Text: FAQ
+URL: https://www.barcouncilofindia.org/info/faq
+
+25. Text: Galleries
+URL: https://www.barcouncilofindia.org/info/list/gallery
+
+27. Text: Announcements
+URL: https://www.barcouncilofindia.org/info/announcements
+
+28. Text: Press Release
+URL: https://www.barcouncilofindia.org/info/press
+
+29. Text: Legislative Research
+URL: https://www.barcouncilofindia.org/info/legislative-research
+
+30. Text: Right to Information
+URL: https://www.barcouncilofindia.org/info/rti
+
+31. Text: Important Judgments
+URL: https://www.barcouncilofindia.org/info/important-judgements
+
+32. Text: Youtube
+URL: https://www.barcouncilofindia.org/l/youtube
+
+33. Text: 21, Rouse Avenue Institutional Area,
+Near Bal Bhawan,
+New Delhi – 110 002.
+URL: https://www.barcouncilofindia.org/l/gmap
+
+34. Text: 011-49225000
+URL: tel:01149225000
+
+35. Text: bciinfo21@gmail.com
+URL: mailto:bciinfo21@gmail.com
+
+36. Text: Terms & Conditions
+URL: https://www.barcouncilofindia.org/info/terms
+
+37. Text: Privacy policy
+URL: https://www.barcouncilofindia.org/info/privacy
+
